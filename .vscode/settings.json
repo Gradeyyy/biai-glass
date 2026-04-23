@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "bit": "c",
+        "cmath": "c",
+        "compare": "c",
+        "concepts": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "cstdint": "c",
+        "cstdlib": "c",
+        "new": "c",
+        "typeinfo": "c"
+    },
+    "cmake.cmakePath": "C:/Program Files/CMake/bin/cmake.exe"
+}
